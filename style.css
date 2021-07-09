@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(63, 53, 53);
+}
+
+
+#form{
+    margin: center;
+    text-align: center;
+    color: white;
+}
+
+#form input{
+    height: 25px;
+    width: 250px;
+}
+
+#form button[id="search"]{
+    height: 33px;
+    background-color: rgb(162, 45, 25);
+    color: white;
+}
+#form button[id="delete"]{
+    height: 33px;
+    background-color: rgb(0, 17, 147);
+    color: white;
+
+}
+
+img{
+    height: 430px;
+    width: 350px;
+}
+
+div{
+    display: inline;
+}
